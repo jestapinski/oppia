@@ -51,5 +51,3 @@ class FillInTheBlank(base.BaseInteraction):
         },
         'default_value': 2,
     }]
-
-# print(interaction_registry.Registry.get_all_specs())
