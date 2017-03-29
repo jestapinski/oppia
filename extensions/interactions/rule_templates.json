@@ -140,6 +140,8 @@
       "description": "has error message that contains {{x|UnicodeString}}"
     }
   },
+  "SequencingInput": {
+  },
   "SetInput": {
     "Equals": {
       "description": "is equal to {{x|SetOfUnicodeString}}"
